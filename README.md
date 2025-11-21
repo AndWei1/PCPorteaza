@@ -1,2 +1,4 @@
 # PCPorteaza
-Pe Cine Porteaza? (pbn)
+Pe Cine Porteaza?
+
+Repo NEterminat, n-are rost sa investighezi.
